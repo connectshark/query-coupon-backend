@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: express-server
+    name: query-coupon-backend
     env: node
     region: singapore
     plan: free
